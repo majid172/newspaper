@@ -2,9 +2,15 @@
 ## Description
 This project is a **Newspaper Repository** that allows users to manage and browse various newspaper articles. It includes features like article categorization, search functionality, and an admin panel for content management.
 
-## Installation
-Steps to install dependencies:
+## Features
+- 📝 Add, edit, and delete newspaper articles  
+- 🔍 Search and filter articles by category, date, or keywords  
+- 📅 Archive and manage past editions  
+- 📊 Admin panel for content moderation  
+- 📸 Image and multimedia support  
 
-git clone https://github.com/username/repository.git
-cd repository
-npm install
+## 🛠️ Installation
+
+### 1️⃣ Clone the Repository
+- git clone https://github.com/your-username/newspaper-repository.git
+- cd newspaper-repository
