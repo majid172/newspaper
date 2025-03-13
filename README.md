@@ -12,5 +12,5 @@ This project is a **Newspaper Repository** that allows users to manage and brows
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository
-- git clone https://github.com/your-username/newspaper-repository.git
+- git clone https://github.com/majid172/newspaper-repository.git
 - cd newspaper-repository
