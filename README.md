@@ -1,4 +1,4 @@
-# Project Name
+# Newspaper
 Newspaper
 ## Description
 A brief description of your project.
